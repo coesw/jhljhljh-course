@@ -1,8 +1,8 @@
-title: jhljhljh
-description: jljhljhljh
+title: Name
+description: Father Name
 template:
-  repo: jhljhljh-template
-  name: jhljhljh
+  repo: Data-template
+  name: DL
 before:
   - type: createIssue
     title: Welcome!
